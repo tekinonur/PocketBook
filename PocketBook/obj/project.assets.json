@@ -1552,11 +1552,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/onurtekin/Documents/Sources/git repos/PocketBook/PocketBook/PocketBook.csproj",
+      "projectUniqueName": "/Users/onurtekin/Repos/PocketBook/PocketBook/PocketBook.csproj",
       "projectName": "PocketBook",
-      "projectPath": "/Users/onurtekin/Documents/Sources/git repos/PocketBook/PocketBook/PocketBook.csproj",
+      "projectPath": "/Users/onurtekin/Repos/PocketBook/PocketBook/PocketBook.csproj",
       "packagesPath": "/Users/onurtekin/.nuget/packages/",
-      "outputPath": "/Users/onurtekin/Documents/Sources/git repos/PocketBook/PocketBook/obj/",
+      "outputPath": "/Users/onurtekin/Repos/PocketBook/PocketBook/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/onurtekin/.nuget/NuGet/NuGet.Config"
